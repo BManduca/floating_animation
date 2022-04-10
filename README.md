@@ -3,4 +3,4 @@
 
 - 💻 Projeto para ilustrar a animação de elementos envolvendo o 'Float' 
 
-![Flutuação de elementos](https://drive.google.com/file/d/1OspBtNQ_u34tLnorM_zRRFRKIvm8dIt7/view?usp=sharing)
+![Flutuação de elementos](https://github.com/BManduca/floating_animation/blob/master/thumbnail.jpg?raw=true)
